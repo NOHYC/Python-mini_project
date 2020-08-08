@@ -49,11 +49,13 @@ sentance = part1+part2+part3
 sss = text_cf(sentance)
 print(sss)
 
+
+########### 네이버 번역 API(네이버 개발자 센터)는 비로그인 API 할당량이 정해져있어서 하루에 5000자 정도 번역 가능##### 
 import os
 import sys
 
-client_id = "gN_Z70Wjn_T4fvc5v_d5"
-client_secret = "YOxRcbaztn"
+client_id = "gN_Z70Wjn_T4fvc5v_d5" # 네이버 API 아이디
+client_secret = "YOxRcbaztn"       # 네이버 API 비번 ( 다시 받아야함 )
 
 encText = urllib.parse.quote(sentance) # 번역할 텍스트
 data = "source=en&target=ko&text=" + encText
