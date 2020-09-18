@@ -28,5 +28,5 @@
 
 
 
-![수달이](C:\Users\nyc15\github\Python-mini_project\README.assets\cute.jpg)
+![수달이](C:\Users\nyc15\github\Python-mini_project\README.assets\cute.png)
 
