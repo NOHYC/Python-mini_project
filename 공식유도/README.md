@@ -4,7 +4,7 @@
 
 공식
 
-![image-20210109143019418](C:\Users\nyc15\AppData\Roaming\Typora\typora-user-images\image-20210109143019418.png)
+![image-20210109143019418](README.assets/image-20210109143019418.png)
 
 영의 탄성계수를 구하는 공식으로 힘( F ) ,  면적( A ), L0( 초기 길이 ), dL( 길이 변화량 )를 나타낸다.
 
